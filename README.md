@@ -8,4 +8,4 @@
 
 그리고 저는 3반이에요.
 
-![image](image.png)
+![image](image/image.png)
